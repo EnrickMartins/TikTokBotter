@@ -18,5 +18,3 @@ Download the Version that's the same version as your chrome
 _______________________
 ## Preview
 ![image](https://user-images.githubusercontent.com/80835991/151645326-7f3e1258-dfd2-4dca-9cec-dfe77260f051.png)
-
-
